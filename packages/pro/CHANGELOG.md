@@ -1,5 +1,11 @@
 # @docx-editor.dev/pro
 
+## 2.7.1
+
+### Patch Changes
+
+- 25b8714: Derive the third-party notice for `@docx-editor.dev/pro` from every bundle it ships, not only the Vue one.
+
 ## 2.7.0
 
 ## 2.6.1

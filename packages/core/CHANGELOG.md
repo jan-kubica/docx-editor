@@ -1,5 +1,11 @@
 # @docx-editor.dev/core
 
+## 2.7.1
+
+### Patch Changes
+
+- @docx-editor.dev/i18n@2.7.1
+
 ## 2.7.0
 
 ### Minor Changes

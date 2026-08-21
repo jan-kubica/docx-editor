@@ -1,5 +1,11 @@
 # @docx-editor.dev/editor-api
 
+## 2.7.1
+
+### Patch Changes
+
+- @docx-editor.dev/core@2.7.1
+
 ## 2.7.0
 
 ### Patch Changes
